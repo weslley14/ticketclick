@@ -1,7 +1,7 @@
 <?php
 
     //Localhost
-
+    //iniciando a conexão PDO com banco local.
     session_start();
 
     $localhost = "localhost";
